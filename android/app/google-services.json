@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "654922975976",
+    "project_id": "newsgram1-c2b7f",
+    "storage_bucket": "newsgram1-c2b7f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654922975976:android:e6657ecaaa76b5aed0575d",
+        "android_client_info": {
+          "package_name": "com.example.newsgram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmUxpsSZPiaiwspVIEYJy1vcl_7GWnFO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
